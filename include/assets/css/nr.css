@@ -1,0 +1,51 @@
+#vmplayer_title{
+	text-align: center;
+	 line-height: 20px;
+	  color: #e8e8e8; 
+	  text-decoration: none; 
+	  letter-spacing: 0px; 
+	  font-weight: bold;
+	   font-size: 10px; 
+	   font-family: verdana;
+	   margin-right: 105px;
+}
+#vmplayer_close{
+  text-align: center; 
+  line-height: 20px;
+  color: #e8e8e8;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: bold;
+  font-size: 10px;
+  font-family: verdana;
+}
+.vertical .album-cover2{
+	height: 320px!important;
+}
+#vmplayer_nr_close{
+	   width: 5px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    height: 22px;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    background: #5e5757;
+    cursor: pointer;
+}
+#vmplayer_button{
+ 
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  font-style: oblique;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+input#vmplayer_stream_url {
+    width: 300px;
+}
